@@ -1,1 +1,2 @@
 git hub is having a lot of troble with me and need to have more practice
+trying another way for pull origin through fetch and merge command in GIT
